@@ -47,3 +47,13 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+Latest news
+------
+<ul class="scrollable-list">
+  <li><b>May 28</b>: visiting eSSENCE Lund.</li>
+
+  <li><b>May 27</b>: visiting eSSENCE Umeå.</li>
+
+  <li><b>May 25</b>: annual day of <ahref="https://sverigesungaakademi.se/event/arsdag-umea/">SUA</a> in Umeå.</li>
+</ul>
