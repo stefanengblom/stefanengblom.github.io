@@ -39,6 +39,8 @@ More details can be found [here](../files/URDME_CELLs.pdf).
 
 ## Latest news and upcoming activities 2024
 
+*   **Sep 5**: organized a [Mini Workshop in Computational Fusion and Plasma](https://uppsala.instructure.com/courses/89337/files/7194672?wrap=1) together with [Murtazo Nazarov](https://murtazo.github.io/).
+*   **Aug 29--30**: visiting the [Pandemic Laboratory Preparedness Retreat 2024](https://www.scilifelab.se/event/plp-retreat-2024/).
 *   **May 28**: visiting eSSENCE Lund.
 *   **May 27**: visiting eSSENCE Umeå.
 *   **May 25**: annual day of [SUA](https://sverigesungaakademi.se/event/arsdag-umea/) in Umeå.
