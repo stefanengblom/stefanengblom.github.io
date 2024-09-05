@@ -7,6 +7,49 @@ redirect_from:
   - /about.html
 ---
 
+I am...  
+...the Director of [eSSENCE](https://essenceofescience.se/)...  
+...coordinating the [TDB Seminar Series](https://uppsala.instructure.com/courses/89337)...  
+...the current faculty advisor of [UPPSALA SIAM Chapter](http://www.it.uu.se/grad/siam)...  
+...a member of the board of [Consor](https://www.consorconsulting.se/)...  
+  
+On the national side I was previously an elected member of the [Young Academy of Sweden](http://www.sverigesungaakademi.se) for the period 2016--2021. See my alumni [presentation web-page](http://www.sverigesungaakademi.se/757.html) there.  
+
+<img src="../images/SUA_logo_mix_bold.png" width=160 alt="Swedish Young Academy" title="Swedish Young Academy">
+
+Find me at the [Mathematics Genealogy Project](http://genealogy.math.ndsu.nodak.edu/id.php?id=130384).
+
+## Research
+
+I am particularly interested in Scientific Computing in the intersection with Data-driven research and Data Science. I have extensive experiences in many aspects of Scientific Computing in general, in Numerical Modeling and -Analys in particular, as well as to some extent in High-Performance Computing. My main focus of applications are in the Biosciences at broad, but I've also taken an interest in traditional computational Engineering applications.  
+  
+**Current active research projects** include Bayesian approaches for compute intensive data-driven models in epidemics, including in particular _prediction_, and multiscale modeling and parameterization of living cells, where spatial stochasticity is an important aspect of the modeling.  
+  
+In case you are interested in doing a project work or a MSc-thesis, **please feel invited to contact me for further discussions**
+
+### Open project proposals:
+
+**[Computational Epidemics driven by Data](../files/BayesianEpidemics.pdf)**  
+In this line of research we are interested in the trade-off between data on the one hand, and detailed modeling on the other hand. The application focus is in epidemics and concerns modeling under uncertainties and supporting risk-based decisions. Part of the work will be done in [SimInf](http://www.siminf.se).  
+More details can be found [here](../files/BayesianEpidemics.pdf).  
+  
+**[Computational cell population models: multiscale and multiphysics modeling](../files/URDME_CELLs.pdf)**  
+There are several openings for interesting projects within the software framework [URDME](http://urdme.github.io/urdme). Suggestions include high-performance software development, advanced new modeling, and improving simulation efficiency and flexibility, as well as machine learning and data mining techniques.  
+More details can be found [here](../files/URDME_CELLs.pdf).
+
+## Latest news and upcoming activities 2024
+
+*   **May 28**: visiting eSSENCE Lund.
+*   **May 27**: visiting eSSENCE Umeå.
+*   **May 25**: annual day of [SUA](https://sverigesungaakademi.se/event/arsdag-umea/) in Umeå.
+*   **May 24**: participating in the [Doctoral Degree Conferment Ceremony](https://www.uu.se/en/events/2024/2024-05-24-doctoral-degree-conferment-ceremony) for Robin Marin. _Congrats!_.
+*   **May 17**: Paper published: _E. Blom, S. Engblom: Morphological stability for in silico models of avascular tumors_ in _Bull. Math. Biol_, 86 (2024) [(doi)](https://doi.org/10.1007/s11538-024-01297-x). Also check out the associated [SMB blog post](https://smb.org/news/13360084).
+*   **Mar 26**: [Erik Blom](https://www.it.uu.se/katalog/eribl985) gave his halftime seminar. External reviewer was [Philip Gerlee](https://www.gu.se/om-universitetet/hitta-person/philipgerlee).
+*   **Mar 8**: I was the chairman on [Camille Clouard's](https://www.katalog.uu.se/profile?id=N18-569) PhD defence. She defended her PhD thesis [A computational and statistical framework for cost-effective genotyping combining pooling and imputation](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:1825852). _Congrats!_.
+*   **Feb 20**: I was formally appointed the new Director of [eSSENCE](https://essenceofescience.se/). Lots of things to take care of, stay tuned...
+*   **Feb 2**: new preprint, _E. Blom, S. Engblom, G. Menz: Modeling the hallmarks of avascular tumors_, available via [arXiv](https://arxiv.org/abs/2402.01305).
+
+<!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,3 +90,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
