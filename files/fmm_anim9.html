@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>Autotuning on multicore CPU/manycore GPU system</title>
+  </head>
+
+  <body>
+    <h1>Autotuning on multicore CPU/manycore GPU system</h1>
+
+    <embed src="animations/FMM/cylflowanim5.mov"><br>
+      <a href="animations/FMM/cylflowanim5.mov">(Direct link to animation)</a>
+    </embed><br><br>
+
+    Dynamics of a cylinderflow simulation using a vortex-based
+    discretization and the FMM. The computations run concurrently on a
+    multicore CPU and a manycore GPU. It is complicated to use these
+    hardware in an optimal way and the approach tested here is based
+    on autotuning for performance. Two parameters control the balance
+    between offloading onto the GPU vs. CPU work. To the left in blue
+    is the number of levels in the FMM-method. A large number of
+    levels means that less work is offloaded to the GPU. To the right
+    in green is a variable theta that controls the multipole
+    acceptance criterion (the theta criterion). A large value of
+    theta, say, close to 1, means that a larger number of multipole
+    coefficients is used, but also that the communication stencils
+    become smaller. The autotuner continuously test varying these
+    parameters by measuring the benefits of accepting suggested
+    changes. By also measuring how costly each parameter test is, the
+    added cost of using the autotuner itself may be controlled.
+
+<h4>References</h4>
+    <li>The fast multipole method employed in the simulations was
+    detailed in <i>S. Engblom: On well-separated sets and fast
+    multipole methods</i>, in <i>Appl. Numer. Math.</i>
+    61(10):1096--1102,
+    2011: <a href="http://dx.doi.org/10.1016/j.apnum.2011.06.011">(doi)</a>.</li>
+
+    <li>The GPU implementation itself was described in <i>A. Goude and
+	S. Engblom: Adaptive fast multipole methods on the GPU</i>,
+      in <i>J. Supercomput</i> 63(3):897--918,
+      2013: <a href="http://dx.doi.org/10.1007/s11227-012-0836-0">(doi)</a>
+    </li>
+
+    <li>The idea of autotuning and the algorithm used is worked out
+      in <i>M. Holm, S. Engblom, A. Goude, S. Holmgren: Dynamic
+      autotuning of adaptive fast multipole methods on hybrid
+      multicore CPU & GPU systems</i>, in <i>SIAM J. Sci. Comput.</i>
+      36(4):C376--C399
+      (2014): <a href="http://dx.doi.org/10.1137/130943595">(doi)</a>
+    </li>
+
+<br><br>
+
+    <hr>
+    <address><a href="mailto:stefane@it.uu.se">Stefan Engblom</a></address>
+<!-- Created: Wed May  9 16:02:23 MEST 2007 -->
+<!-- hhmts start -->Last modified: Fri Sep  6 14:59:11 CEST 2024 <!-- hhmts end -->
+  </body>
+</html>

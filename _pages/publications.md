@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-[List of publications as a pdf](../files/publ_Engblom.pdf).
+_See also:_ <a href="{{site.author.googlescholar}}">my Google Scholar
+profile</a>, or DiVA records for [Author: Stefan
+Engblom](http://uu.diva-portal.org/dice/table?query=authorName:Stefan%20Engblom&start=0&rows=100&sort=year%20desc).
+Alternatively, [list of publications as a
+pdf](../files/publ_Engblom.pdf).
 
 {% include base_path %}
 

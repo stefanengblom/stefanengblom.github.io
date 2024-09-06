@@ -27,6 +27,22 @@ I am particularly interested in Scientific Computing in the intersection with Da
   
 In case you are interested in doing a project work or a MSc-thesis, **please feel invited to contact me for further discussions**
 
+### Latest publications 2024
+
+*   _E. Blom, S. Engblom: Morphological stability for in silico models of avascular tumors_
+    
+    *   In _Bull. Math. Biol_, 86 (2024) [(doi)](https://doi.org/10.1007/s11538-024-01297-x).
+    *   Available via [arXiv](http://arxiv.org/abs/2309.07889).
+*   _E. Blom, S. Engblom, G. Menz: Modeling the hallmarks of avascular tumors_
+    
+    *   Available via [arXiv](https://arxiv.org/abs/2402.01305).
+
+_See also:_ <a href="{{site.author.googlescholar}}">my Google Scholar
+profile</a>, or DiVA records for [Author: Stefan
+Engblom](http://uu.diva-portal.org/dice/table?query=authorName:Stefan%20Engblom&start=0&rows=100&sort=year%20desc).
+Alternatively, [list of publications as a
+pdf](../files/publ_Engblom.pdf).
+
 ### Open project proposals:
 
 **[Computational Epidemics driven by Data](../files/BayesianEpidemics.pdf)**  
@@ -39,6 +55,7 @@ More details can be found [here](../files/URDME_CELLs.pdf).
 
 ## Latest news and upcoming activities 2024
 
+*   **Sep 6**: I was the chairman on [Tuan Anh Dao's](https://www.uu.se/en/contact-and-organisation/staff?query=N19-1128) PhD defence. He defended his PhD thesis [Invariant domain preserving schemes for magnetohydrodynamics](https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-532130). _Congrats!_.
 *   **Sep 5**: organized a [Mini Workshop in Computational Fusion and Plasma](https://uppsala.instructure.com/courses/89337/files/7194672?wrap=1) together with [Murtazo Nazarov](https://murtazo.github.io/).
 *   **Aug 29--30**: visiting the [Pandemic Laboratory Preparedness Retreat 2024](https://www.scilifelab.se/event/plp-retreat-2024/).
 *   **May 28**: visiting eSSENCE Lund.
@@ -50,18 +67,6 @@ More details can be found [here](../files/URDME_CELLs.pdf).
 *   **Mar 8**: I was the chairman on [Camille Clouard's](https://www.katalog.uu.se/profile?id=N18-569) PhD defence. She defended her PhD thesis [A computational and statistical framework for cost-effective genotyping combining pooling and imputation](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:1825852). _Congrats!_.
 *   **Feb 20**: I was formally appointed the new Director of [eSSENCE](https://essenceofescience.se/). Lots of things to take care of, stay tuned...
 *   **Feb 2**: new preprint, _E. Blom, S. Engblom, G. Menz: Modeling the hallmarks of avascular tumors_, available via [arXiv](https://arxiv.org/abs/2402.01305).
-
-## Latest publications 2024
-
-_See also:_ DiVA records for [Author: Stefan Engblom](http://uu.diva-portal.org/dice/table?query=authorName:Stefan%20Engblom&start=0&rows=100&sort=year%20desc).
-
-*   _E. Blom, S. Engblom: Morphological stability for in silico models of avascular tumors_
-    
-    *   In _Bull. Math. Biol_, 86 (2024) [(doi)](https://doi.org/10.1007/s11538-024-01297-x).
-    *   Available via [arXiv](http://arxiv.org/abs/2309.07889).
-*   _E. Blom, S. Engblom, G. Menz: Modeling the hallmarks of avascular tumors_
-    
-    *   Available via [arXiv](https://arxiv.org/abs/2402.01305).
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

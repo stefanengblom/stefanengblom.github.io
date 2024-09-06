@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>Data-driven Epidemiological Simulations</title>
+  </head>
+
+  <body>
+    <h1>Modeling and simulation of the spread of VTEC</h1>
+
+    <img src="animations/siminf/siminf_sample.gif"> <br><br>
+
+    <a href="https://en.wikipedia.org/wiki/Escherichia_coli_O157:H7"><i>Escherichia
+    coli</i> O157:H7</a> is a toxin-producing type of <i>E. coli</i>
+    that may cause serious and even deadly disease conditions in
+    humans. Bovine cattle act as the main reservoir of the bacteria,
+    carrying the bacteria for a limited amount of time during which
+    the bacteria is shed to the free environment. Importantly, <i>the
+    animals show no sign of the disease</i> and computational modeling
+    is an important means by which to understand the actual spread of
+    the bacteria. The simulation above shows the dynamics of
+    the <i>infectious pressure</i>, essentially the amount of bacteria
+    in the free environment. This simulation is very
+    strongly <i>data-driven</i> as all actual animal transports are
+    included, thus accurately taking the time-varying contact network
+    into account. Also, the effect of the varying weather conditions
+    is incorporated by using weather data as illustrated in the
+    animation below. <br><br>
+
+    <img src="animations/siminf/season.gif">
+
+    <h4>References</h4>
+    <li><b>SimInf</b> is an R-package with the ability to simulate
+    arbitrary models of epidemics using temporal contact data. The
+    package <a href="http://stewid.github.io/SimInf/">can be found
+    here</a>, see also <a href =
+    "https://cran.r-project.org/web/packages/SimInf/index.html">SimInf
+    at CRAN</a>. The SimInf manual is available
+    via <a href="http://arxiv.org/abs/1605.01421">arXiv</a>.</li>
+
+    <li>The modeling and the simulation method is described in <i>P. Bauer,
+    S. Engblom, S. Widgren: Fast event-based epidemiological
+    simulations on national scales</i> in <i>Int. J. High
+    Perf. Comput. Appl.</i>,
+    2016: <a href="http://dx.doi.org/10.1177/1094342016635723">(doi)</a>.</li>
+    
+    <li>The epidemiological details and the veterinary investigations
+    that went into this is found in: <i>S. Widgren, S. Engblom,
+    P. Bauer, J. Fr&ouml;ssling, U. Emanuelson, and A. Lindberg:
+    Data-driven network modelling of disease transmission using
+    complete population movement data: spread of VTEC O157 in Swedish
+    cattle</i> in <i>Veterinary Res.</i> 47:81(1):1--17,
+    (2016). <a href="http://dx.doi.org/10.1186/s13567-016-0366-5">(doi)</a>.
+    </li>
+
+    <img src="animations/siminf/logo.png" width=100 alt="SimInf Logo"
+     title="SimInf" border=2>
+
+    <hr>
+    <address><a href="mailto:stefane@it.uu.se">Stefan Engblom</a></address>
+<!-- Created:  Fri Nov 11 11:04:19 MEST 2016 -->
+<!-- hhmts start -->Last modified: Fri Sep  6 11:52:48 CEST 2024 <!-- hhmts end -->
+  </body>
+</html>
