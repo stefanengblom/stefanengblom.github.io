@@ -53,8 +53,9 @@ More details can be found [here](../files/BayesianEpidemics.pdf).
 There are several openings for interesting projects within the software framework [URDME](http://urdme.github.io/urdme). Suggestions include high-performance software development, advanced new modeling, and improving simulation efficiency and flexibility, as well as machine learning and data mining techniques.  
 More details can be found [here](../files/URDME_CELLs.pdf).
 
-## Latest news and upcoming activities 2024
+## Latest news and activities 2024
 
+* **Sep 13**: I organized a kick-off for the [eSSENCE grad-school](https://www.essenceofescience.se/w/es/en/education).
 *   **Sep 6**: I was the chairman on [Tuan Anh Dao's](https://www.uu.se/en/contact-and-organisation/staff?query=N19-1128) PhD defence. He defended his PhD thesis [Invariant domain preserving schemes for magnetohydrodynamics](https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-532130). _Congrats!_.
 *   **Sep 5**: organized a [Mini Workshop in Computational Fusion and Plasma](https://uppsala.instructure.com/courses/89337/files/7194672?wrap=1) together with [Murtazo Nazarov](https://murtazo.github.io/).
 *   **Aug 29--30**: visiting the [Pandemic Laboratory Preparedness Retreat 2024](https://www.scilifelab.se/event/plp-retreat-2024/).
