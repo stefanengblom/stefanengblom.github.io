@@ -55,6 +55,12 @@ More details can be found [here](../files/URDME_CELLs.pdf).
 
 ## Latest news and activities 2024
 
+* **Oct 23--24**: [SWEDCOMP24](https://www.kth.se/math/naost/na/swedcomp2024-1.1345631).
+* **Oct 22**: leadership in science, arranged by [Sweden's young academy](https://sverigesungaakademi.se/).
+* **Oct 16--17**: participating in the [Swedish e-Science Academy 2024](https://www.essenceofescience.se/w/es/en/calendar/archive/2024-10-16-swedish-e-science-academy-2024).
+* **Oct 7--8**: participating in the [DDLS Symposium on Data-Driven Environmental Monitoring of Infectious Diseases](https://www.scilifelab.se/event/ddls-symposium-on-data-driven-environmental-monitoring-of-infectious-diseases/)
+* **Oct 2--3**: visit to the Swedish parliament within the [RIFO](https://rifo.se/natverksprogrammet/)-program. I had the honour of following MP [Monica Haider](https://www.riksdagen.se/sv/ledamoter-och-partier/ledamot/monica-haider_6f818cd1-9a97-412f-bc59-1d1e8a2ceb19/) during this vist. _Thanks a lot!_
+![RIFO Participants 2024](/images/RIFO2024.png "Photo: Jesper Ahlin Marceta")
 * **Sep 13**: I organized a kick-off for the [eSSENCE grad-school](https://www.essenceofescience.se/w/es/en/education).
 *   **Sep 6**: I was the chairman on [Tuan Anh Dao's](https://www.uu.se/en/contact-and-organisation/staff?query=N19-1128) PhD defence. He defended his PhD thesis [Invariant domain preserving schemes for magnetohydrodynamics](https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-532130). _Congrats!_.
 *   **Sep 5**: organized a [Mini Workshop in Computational Fusion and Plasma](https://uppsala.instructure.com/courses/89337/files/7194672?wrap=1) together with [Murtazo Nazarov](https://murtazo.github.io/).
