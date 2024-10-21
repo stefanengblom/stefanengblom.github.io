@@ -55,6 +55,7 @@ More details can be found [here](../files/URDME_CELLs.pdf).
 
 ## Latest news and activities 2024
 
+* **Nov 4**: Start of the [Project course in Computational Science](https://uppsala.instructure.com/courses/101421). _Welcome!_
 * **Oct 23--24**: [SWEDCOMP24](https://www.kth.se/math/naost/na/swedcomp2024-1.1345631).
 * **Oct 22**: leadership in science, arranged by [Sweden's young academy](https://sverigesungaakademi.se/).
 * **Oct 16--17**: participating in the [Swedish e-Science Academy 2024](https://www.essenceofescience.se/w/es/en/calendar/archive/2024-10-16-swedish-e-science-academy-2024).
