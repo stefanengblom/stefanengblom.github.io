@@ -29,6 +29,8 @@ In case you are interested in doing a project work or a MSc-thesis, **please fee
 
 ### Latest publications 2024
 
+* _G. Menz, S. Engblom: Modelling Population-Level Hes1 Dynamics: Insights from a Multi-Framework Approach_
+  * Available via [arXiv](http://arxiv.org/abs/2411.09721).
 *   _E. Blom, S. Engblom: Morphological stability for in silico models of avascular tumors_
     
     *   In _Bull. Math. Biol_, 86 (2024) [(doi)](https://doi.org/10.1007/s11538-024-01297-x).
@@ -55,9 +57,11 @@ More details can be found [here](../files/URDME_CELLs.pdf).
 
 ## Latest news and activities 2024
 
+* **Nov 19**: Visit by MP [Monica Haider](https://www.riksdagen.se/sv/ledamoter-och-partier/ledamot/monica-haider_6f818cd1-9a97-412f-bc59-1d1e8a2ceb19/) as part of [RIFO](https://rifo.se/natverksprogrammet/). ![Group meeting](/images/Grupp-min.png "Photo: ")
+* **Nov 18**: new preprint! _G. Menz, S. Engblom: Modelling Population-Level Hes1 Dynamics: Insights from a Multi-Framework Approach_, available via [arXiv](http://arxiv.org/abs/2411.09721).
 * **Nov 4**: Start of the [Project course in Computational Science](https://uppsala.instructure.com/courses/101421). _Welcome!_
 * **Oct 23--24**: [SWEDCOMP24](https://www.kth.se/math/naost/na/swedcomp2024-1.1345631).
-* **Oct 22**: leadership in science, arranged by [Sweden's young academy](https://sverigesungaakademi.se/).
+* **Oct 22**: [leadership in science](https://sverigesungaakademi.se/forskningspolitik/heta-diskussioner-pa-ledarskapsforum/), arranged by [Sweden's young academy](https://sverigesungaakademi.se/).
 * **Oct 16--17**: participating in the [Swedish e-Science Academy 2024](https://www.essenceofescience.se/w/es/en/calendar/archive/2024-10-16-swedish-e-science-academy-2024).
 * **Oct 7--8**: participating in the [DDLS Symposium on Data-Driven Environmental Monitoring of Infectious Diseases](https://www.scilifelab.se/event/ddls-symposium-on-data-driven-environmental-monitoring-of-infectious-diseases/)
 * **Oct 2--3**: visit to the Swedish parliament within the [RIFO](https://rifo.se/natverksprogrammet/)-program. I had the honour of following MP [Monica Haider](https://www.riksdagen.se/sv/ledamoter-och-partier/ledamot/monica-haider_6f818cd1-9a97-412f-bc59-1d1e8a2ceb19/) during this visit. _Thanks a lot!_
