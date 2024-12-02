@@ -47,13 +47,13 @@ pdf](../files/publ_Engblom.pdf).
 
 ### Open project proposals:
 
-**[Computational Epidemics driven by Data](../files/BayesianEpidemics.pdf)**  
+**[Computational Epidemics driven by Data](../files/docs/BayesianEpidemics.pdf)**  
 In this line of research we are interested in the trade-off between data on the one hand, and detailed modeling on the other hand. The application focus is in epidemics and concerns modeling under uncertainties and supporting risk-based decisions. Part of the work will be done in [SimInf](http://www.siminf.se).  
-More details can be found [here](../files/BayesianEpidemics.pdf).  
+More details can be found [here](../files/docs/BayesianEpidemics.pdf).  
   
-**[Computational cell population models: multiscale and multiphysics modeling](../files/URDME_CELLs.pdf)**  
+**[Computational cell population models: multiscale and multiphysics modeling](../files/docs/URDME_CELLs.pdf)**  
 There are several openings for interesting projects within the software framework [URDME](http://urdme.github.io/urdme). Suggestions include high-performance software development, advanced new modeling, and improving simulation efficiency and flexibility, as well as machine learning and data mining techniques.  
-More details can be found [here](../files/URDME_CELLs.pdf).
+More details can be found [here](../files/docs/URDME_CELLs.pdf).
 
 ## Latest news and activities 2024
 
