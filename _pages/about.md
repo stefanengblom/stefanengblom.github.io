@@ -47,16 +47,27 @@ pdf](../files/publ_Engblom.pdf).
 
 ### Open project proposals:
 
+**[Postdoc in Computational Epidemiology](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=777444)**
+
+Postdoc position in Computational Science, specifically in Bayesian Epidemiology. The proposed project consists of two parts: i) developing Neural Network techniques to use in the construction of priors, and ii) developing diagnostic techniques suitable to simulation-based inference.
+
+See the [short project description](../files/docs/NNB_Epidemics.pdf) and the formal ad can be found [here](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=777444).
+
+Please apply using the online application system linked above. **Application deadline 28th of February 2025.**
+
 **[Computational Epidemics driven by Data](../files/docs/BayesianEpidemics.pdf)**  
 In this line of research we are interested in the trade-off between data on the one hand, and detailed modeling on the other hand. The application focus is in epidemics and concerns modeling under uncertainties and supporting risk-based decisions. Part of the work will be done in [SimInf](http://www.siminf.se).  
-More details can be found [here](../files/docs/BayesianEpidemics.pdf).  
+
+More details can be found [here](../files/docs/BayesianEpidemics.pdf).
   
 **[Computational cell population models: multiscale and multiphysics modeling](../files/docs/URDME_CELLs.pdf)**  
 There are several openings for interesting projects within the software framework [URDME](http://urdme.github.io/urdme). Suggestions include high-performance software development, advanced new modeling, and improving simulation efficiency and flexibility, as well as machine learning and data mining techniques.  
+
 More details can be found [here](../files/docs/URDME_CELLs.pdf).
 
 ## Latest news and activities 2024
 
+* **Dec 6**: open position [Postdoc in Computational Epidemiology](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=777444). Welcome to apply using the online system. _Deadline: 28th February 2025._
 * **Nov 19**: Visit by MP [Monica Haider](https://www.riksdagen.se/sv/ledamoter-och-partier/ledamot/monica-haider_6f818cd1-9a97-412f-bc59-1d1e8a2ceb19/) as part of [RIFO](https://rifo.se/natverksprogrammet/). ![Group meeting](/images/Grupp-min.png "Photo: ")
 * **Nov 18**: new preprint! _G. Menz, S. Engblom: Modelling Population-Level Hes1 Dynamics: Insights from a Multi-Framework Approach_, available via [arXiv](http://arxiv.org/abs/2411.09721).
 * **Nov 4**: Start of the [Project course in Computational Science](https://uppsala.instructure.com/courses/101421). _Welcome!_
