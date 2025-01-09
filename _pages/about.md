@@ -27,17 +27,7 @@ I am particularly interested in Scientific Computing in the intersection with Da
   
 In case you are interested in doing a project work or a MSc-thesis, **please feel invited to contact me for further discussions**
 
-### Latest publications 2024
-
-* _G. Menz, S. Engblom: Modelling Population-Level Hes1 Dynamics: Insights from a Multi-Framework Approach_
-  * Available via [arXiv](http://arxiv.org/abs/2411.09721).
-*   _E. Blom, S. Engblom: Morphological stability for in silico models of avascular tumors_
-    
-    *   In _Bull. Math. Biol_, 86 (2024) [(doi)](https://doi.org/10.1007/s11538-024-01297-x).
-    *   Available via [arXiv](http://arxiv.org/abs/2309.07889).
-*   _E. Blom, S. Engblom, G. Menz: Modeling the hallmarks of avascular tumors_
-    
-    *   Available via [arXiv](https://arxiv.org/abs/2402.01305).
+### Latest publications 2025
 
 _See also:_ <a href="{{site.author.googlescholar}}">my Google Scholar
 profile</a>, or DiVA records for [Author: Stefan
@@ -65,31 +55,15 @@ There are several openings for interesting projects within the software framewor
 
 More details can be found [here](../files/docs/URDME_CELLs.pdf).
 
-## Latest news and activities 2024
+## Latest news and activities 2025
 
-* **Dec 6**: open position [Postdoc in Computational Epidemiology](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=777444). Welcome to apply using the online system. _Deadline: 28th February 2025._
-* **Nov 19**: Visit by MP [Monica Haider](https://www.riksdagen.se/sv/ledamoter-och-partier/ledamot/monica-haider_6f818cd1-9a97-412f-bc59-1d1e8a2ceb19/) as part of [RIFO](https://rifo.se/natverksprogrammet/). ![Group meeting](/images/Grupp-min.png "Photo: ")
-* **Nov 18**: new preprint! _G. Menz, S. Engblom: Modelling Population-Level Hes1 Dynamics: Insights from a Multi-Framework Approach_, available via [arXiv](http://arxiv.org/abs/2411.09721).
-* **Nov 4**: Start of the [Project course in Computational Science](https://uppsala.instructure.com/courses/101421). _Welcome!_
-* **Oct 23--24**: [SWEDCOMP24](https://www.kth.se/math/naost/na/swedcomp2024-1.1345631).
-* **Oct 22**: [leadership in science](https://sverigesungaakademi.se/forskningspolitik/heta-diskussioner-pa-ledarskapsforum/), arranged by [Sweden's young academy](https://sverigesungaakademi.se/).
-* **Oct 16--17**: participating in the [Swedish e-Science Academy 2024](https://www.essenceofescience.se/w/es/en/calendar/archive/2024-10-16-swedish-e-science-academy-2024).
-* **Oct 7--8**: participating in the [DDLS Symposium on Data-Driven Environmental Monitoring of Infectious Diseases](https://www.scilifelab.se/event/ddls-symposium-on-data-driven-environmental-monitoring-of-infectious-diseases/)
-* **Oct 2--3**: visit to the Swedish parliament within the [RIFO](https://rifo.se/natverksprogrammet/)-program. I had the honour of following MP [Monica Haider](https://www.riksdagen.se/sv/ledamoter-och-partier/ledamot/monica-haider_6f818cd1-9a97-412f-bc59-1d1e8a2ceb19/) during this visit. _Thanks a lot!_
-![RIFO Participants 2024](/images/RIFO2024.png "Photo: Jesper Ahlin Marceta")
-* **Sep 13**: I organized a kick-off for the [eSSENCE grad-school](https://www.essenceofescience.se/w/es/en/education).
-*   **Sep 6**: I was the chairman on [Tuan Anh Dao's](https://www.uu.se/en/contact-and-organisation/staff?query=N19-1128) PhD defence. He defended his PhD thesis [Invariant domain preserving schemes for magnetohydrodynamics](https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-532130). _Congrats!_.
-*   **Sep 5**: organized a [Mini Workshop in Computational Fusion and Plasma](https://uppsala.instructure.com/courses/89337/files/7194672?wrap=1) together with [Murtazo Nazarov](https://murtazo.github.io/).
-*   **Aug 29--30**: visiting the [Pandemic Laboratory Preparedness Retreat 2024](https://www.scilifelab.se/event/plp-retreat-2024/).
-*   **May 28**: visiting eSSENCE Lund.
-*   **May 27**: visiting eSSENCE Umeå.
-*   **May 25**: annual day of [SUA](https://sverigesungaakademi.se/event/arsdag-umea/) in Umeå.
-*   **May 24**: participating in the [Doctoral Degree Conferment Ceremony](https://www.uu.se/en/events/2024/2024-05-24-doctoral-degree-conferment-ceremony) for Robin Marin. _Congrats!_.
-*   **May 17**: Paper published: _E. Blom, S. Engblom: Morphological stability for in silico models of avascular tumors_ in _Bull. Math. Biol_, 86 (2024) [(doi)](https://doi.org/10.1007/s11538-024-01297-x). Also check out the associated [SMB blog post](https://smb.org/news/13360084).
-*   **Mar 26**: [Erik Blom](https://www.it.uu.se/katalog/eribl985) gave his halftime seminar. External reviewer was [Philip Gerlee](https://www.gu.se/om-universitetet/hitta-person/philipgerlee).
-*   **Mar 8**: I was the chairman on [Camille Clouard's](https://www.katalog.uu.se/profile?id=N18-569) PhD defence. She defended her PhD thesis [A computational and statistical framework for cost-effective genotyping combining pooling and imputation](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:1825852). _Congrats!_.
-*   **Feb 20**: I was formally appointed the new Director of [eSSENCE](https://essenceofescience.se/). Lots of things to take care of, stay tuned...
-*   **Feb 2**: new preprint, _E. Blom, S. Engblom, G. Menz: Modeling the hallmarks of avascular tumors_, available via [arXiv](https://arxiv.org/abs/2402.01305).
+* **Jan 17**: [Gesina Menz](https://www.uu.se/kontakt-och-organisation/personal?query=N21-2101) will present her half-time seminar. External reviewer: [https://www.gu.se/om-universitetet/hitta-person/torbjornlundh](Torbjörn Lundh).
+
+* **Jan 14--16**: participation in the [BIT'65 conference](https://www.uu.se/en/department/information-technology/research/computational-science/bit-conference).
+
+* **Jan 10**: poster presentation session in the [Project course in Computational Science](https://uppsala.instructure.com/courses/101421/pages/project-groups-2). _Welcome!_
+
+* **Jan 8--9**: final presentations in the [Project course in Computational Science](https://uppsala.instructure.com/courses/101421/pages/schedule-overview). 
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
