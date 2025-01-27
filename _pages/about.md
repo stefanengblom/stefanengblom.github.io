@@ -51,13 +51,17 @@ In this line of research we are interested in the trade-off between data on the 
 More details can be found [here](../files/docs/BayesianEpidemics.pdf).
   
 **[Computational cell population models: multiscale and multiphysics modeling](../files/docs/URDME_CELLs.pdf)**  
-There are several openings for interesting projects within the software framework [URDME](http://urdme.github.io/urdme). Suggestions include high-performance software development, advanced new modeling, and improving simulation efficiency and flexibility, as well as machine learning and data mining techniques.  
+There are three suggested openings for projects within the software framework [URDME](http://urdme.github.io/urdme). Suggestions include advanced new modeling,   improving simulation efficiency and flexibility, as well as mathematical analysis.  
 
 More details can be found [here](../files/docs/URDME_CELLs.pdf).
 
 ## Latest news and activities 2025
 
-* **Jan 17**: [Gesina Menz](https://www.uu.se/kontakt-och-organisation/personal?query=N21-2101) will present her half-time seminar. External reviewer: [https://www.gu.se/om-universitetet/hitta-person/torbjornlundh](Torbjörn Lundh).
+* **May 5--6**: I will help co-organize a DDLS-workshop entitled _Infectious disease epidemiology: surveillance, forecasting and modelling_ together with [Tove Fall](https://www.uu.se/en/contact-and-organisation/staff?query=N9-1007), [Tom Britton](https://www.su.se/english/profiles/tbrit-1.182592), and [Laura Carroll](https://www.umu.se/en/staff/laura-carroll/).
+
+* **Mar 28**: I will organize a half-day meeting with the [eSSENCE graduate school](https://www.essenceofescience.se/w/es/en/education).
+
+* **Jan 17**: [Gesina Menz](https://www.uu.se/kontakt-och-organisation/personal?query=N21-2101) presented her half-time seminar. External reviewer: [Torbjörn Lundh](https://www.gu.se/om-universitetet/hitta-person/torbjornlundh).
 
 * **Jan 14--16**: participation in the [BIT'65 conference](https://www.uu.se/en/department/information-technology/research/computational-science/bit-conference).
 
