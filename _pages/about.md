@@ -27,14 +27,6 @@ I am particularly interested in Scientific Computing in the intersection with Da
   
 In case you are interested in doing a project work or a MSc-thesis, **please feel invited to contact me for further discussions**
 
-### Latest publications 2025
-
-_See also:_ <a href="{{site.author.googlescholar}}">my Google Scholar
-profile</a>, or DiVA records for [Author: Stefan
-Engblom](http://uu.diva-portal.org/dice/table?query=authorName:Stefan%20Engblom&start=0&rows=100&sort=year%20desc).
-Alternatively, [list of publications as a
-pdf](../files/publ_Engblom.pdf).
-
 ### Open project proposals:
 
 **[Postdoc in Computational Epidemiology](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=777444)**
@@ -46,7 +38,7 @@ See the [short project description](../files/docs/NNB_Epidemics.pdf) and the for
 Please apply using the online application system linked above. **Application deadline 28th of February 2025.**
 
 **[Computational Epidemics driven by Data](../files/docs/BayesianEpidemics.pdf)**  
-In this line of research we are interested in the trade-off between data on the one hand, and detailed modeling on the other hand. The application focus is in epidemics and concerns modeling under uncertainties and supporting risk-based decisions. Part of the work will be done in [SimInf](http://www.siminf.se).  
+In this line of research we are interested in the trade-offs between data and detailed so-called mechanistic models. The application focus is in epidemics and concerns modeling under uncertainties and supporting risk-based decisions. Part of the work will be done in [URDME](http://urdme.github.io/urdme).  
 
 More details can be found [here](../files/docs/BayesianEpidemics.pdf).
   
@@ -54,6 +46,14 @@ More details can be found [here](../files/docs/BayesianEpidemics.pdf).
 There are three suggested openings for projects within the software framework [URDME](http://urdme.github.io/urdme). Suggestions include advanced new modeling,   improving simulation efficiency and flexibility, as well as mathematical analysis.  
 
 More details can be found [here](../files/docs/URDME_CELLs.pdf).
+
+### Latest publications 2025
+
+_See also:_ <a href="{{site.author.googlescholar}}">my Google Scholar
+profile</a>, or DiVA records for [Author: Stefan
+Engblom](http://uu.diva-portal.org/dice/table?query=authorName:Stefan%20Engblom&start=0&rows=100&sort=year%20desc).
+Alternatively, [list of publications as a
+pdf](../files/publ_Engblom.pdf).
 
 ## Latest news and activities 2025
 
