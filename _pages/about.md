@@ -29,13 +29,14 @@ In case you are interested in doing a project work or a MSc-thesis, **please fee
 
 ### Open project proposals:
 
+<!--
 **[Postdoc in Computational Epidemiology](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=777444)**
 
 Postdoc position in Computational Science, specifically in Bayesian Epidemiology. The proposed project consists of two parts: i) developing Neural Network techniques to use in the construction of priors, and ii) developing diagnostic techniques suitable to simulation-based inference.
 
-See the [short project description](../files/docs/NNB_Epidemics.pdf) and the formal ad can be found [here](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=777444).
+See the [short project description](../files/docs/NNB_Epidemics.pdf) and the formal ad can be found [here](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=777444). 
 
-Please apply using the online application system linked above. **Application deadline 28th of February 2025.**
+Please apply using the online application system linked above. **Application deadline 28th of February 2025.** -->
 
 **[Computational Epidemics driven by Data](../files/docs/BayesianEpidemics.pdf)**  
 In this line of research we are interested in the trade-offs between data and detailed so-called mechanistic models. The application focus is in epidemics and concerns modeling under uncertainties and supporting risk-based decisions. Part of the work will be done in [URDME](http://urdme.github.io/urdme).  
@@ -57,9 +58,13 @@ pdf](../files/publ_Engblom.pdf).
 
 ## Latest news and activities 2025
 
-* **May 5--6**: I will help co-organize a DDLS-workshop entitled _Infectious disease epidemiology: surveillance, forecasting and modelling_ together with [Tove Fall](https://www.uu.se/en/contact-and-organisation/staff?query=N9-1007), [Tom Britton](https://www.su.se/english/profiles/tbrit-1.182592), and [Laura Carroll](https://www.umu.se/en/staff/laura-carroll/).
+* **May 5--6**: I will help co-organize a DDLS-workshop entitled [_Infectious disease epidemiology: surveillance, forecasting and modelling_](https://www.scilifelab.se/event/ddls-ebi-symposium/) together with [Tove Fall](https://www.uu.se/en/contact-and-organisation/staff?query=N9-1007), [Tom Britton](https://www.su.se/english/profiles/tbrit-1.182592), and [Laura Carroll](https://www.umu.se/en/staff/laura-carroll/).
 
 * **Mar 28**: I will organize a half-day meeting with the [eSSENCE graduate school](https://www.essenceofescience.se/w/es/en/education).
+
+* **Mar 17--18**: TDB internal conference.
+
+* **Mar 14**: I will give a short talk in [_Upp-Upp_](../files/docs/Upp-Upp 25.pdf), the internal conference for Statisticians in Uppsala.
 
 * **Jan 17**: [Gesina Menz](https://www.uu.se/kontakt-och-organisation/personal?query=N21-2101) presented her half-time seminar. External reviewer: [Torbjörn Lundh](https://www.gu.se/om-universitetet/hitta-person/torbjornlundh).
 
