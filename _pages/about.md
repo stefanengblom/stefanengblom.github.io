@@ -64,7 +64,10 @@ pdf](../files/publ_Engblom.pdf).
 
 * **Mar 17--18**: TDB internal conference.
 
-* **Mar 14**: I will give a short talk in [_Upp-Upp_](../files/docs/Upp-Upp 25.pdf), the internal conference for Statisticians in Uppsala.
+* **Mar 14**: I will give a short talk in [_Upp-Upp_](https://www.uu.se/en/department/mathematics/events/archive/2025-03-14-conference-in-statistics-upp-upp), the internal conference for Statisticians in Uppsala.
+
+* **Mar 13**: visit to the Swedish parliament within the [RIFO](https://rifo.se/natverksprogrammet/)-program.  _Thanks a lot!_
+![RIFO Participants 2025](/images/RIFO2025.png "Photo: Jesper Ahlin Marceta")
 
 * **Jan 17**: [Gesina Menz](https://www.uu.se/kontakt-och-organisation/personal?query=N21-2101) presented her half-time seminar. External reviewer: [Torbjörn Lundh](https://www.gu.se/om-universitetet/hitta-person/torbjornlundh).
 
