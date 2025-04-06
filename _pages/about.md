@@ -69,7 +69,9 @@ pdf](../files/publ_Engblom.pdf).
 
 * **May 5--6**: I will help co-organize a DDLS-workshop entitled [_Infectious disease epidemiology: surveillance, forecasting and modelling_](https://www.scilifelab.se/event/ddls-ebi-symposium/) together with [Tove Fall](https://www.uu.se/en/contact-and-organisation/staff?query=N9-1007), [Tom Britton](https://www.su.se/english/profiles/tbrit-1.182592), and [Laura Carroll](https://www.umu.se/en/staff/laura-carroll/).
 
-* **Mar 28**: I organized a half-day meeting with the [eSSENCE graduate school](https://www.essenceofescience.se/w/es/en/education).
+* **Apr**: as of 1st of April I am the program chair of [Applied Scientific Computing](https://www.uu.se/en/department/information-technology/research/computational-science).
+
+* **Mar 28**: organized a half-day meeting with the [eSSENCE graduate school](https://www.essenceofescience.se/w/es/en/education).
 
 * **Mar 17--18**: TDB internal conference.
 
