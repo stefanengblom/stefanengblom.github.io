@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Research"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -43,6 +43,10 @@ I am also the secondary advisor for [Anna Frigge](https://www.it.uu.se/katalog/a
     thesis [Scientific computing on hybrid
     architectures](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-200242)
     (2013).
+
+On the national side I was previously an elected member of the [Young Academy of Sweden](http://www.sverigesungaakademi.se) for the period 2016--2021. See my alumni [presentation web-page](http://www.sverigesungaakademi.se/757.html) there.  
+
+<img src="../images/SUA_logo_mix_bold.png" width=160 alt="Swedish Young Academy" title="Swedish Young Academy">
 
 MSc/BSc-theses:
 

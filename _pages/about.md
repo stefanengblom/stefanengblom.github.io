@@ -8,14 +8,11 @@ redirect_from:
 ---
 
 I am...  
+...the program chair of [Applied Scientific Computing](https://www.uu.se/en/department/information-technology/research/computational-science)...  
 ...the Director of [eSSENCE](https://essenceofescience.se/)...  
 ...coordinating the [TDB Seminar Series](https://uppsala.instructure.com/courses/89337)...  
-...the current faculty advisor of [UPPSALA SIAM Chapter](http://www.it.uu.se/grad/siam)...  
-...a member of the board of [Consor](https://www.consorconsulting.se/)...  
-  
-On the national side I was previously an elected member of the [Young Academy of Sweden](http://www.sverigesungaakademi.se) for the period 2016--2021. See my alumni [presentation web-page](http://www.sverigesungaakademi.se/757.html) there.  
-
-<img src="../images/SUA_logo_mix_bold.png" width=160 alt="Swedish Young Academy" title="Swedish Young Academy">
+...the current faculty advisor of [UPPSALA SIAM Chapter](https://www.uu.se/institution/informationsteknologi/forskning/berakningsvetenskap/siam-chapter)...  
+...and a member of the board of [Consor](https://www.consorconsulting.se/).  
 
 Find me at the [Mathematics Genealogy Project](http://genealogy.math.ndsu.nodak.edu/id.php?id=130384).
 
@@ -26,6 +23,8 @@ I am particularly interested in Scientific Computing in the intersection with Da
 **Current active research projects** include Bayesian approaches for compute intensive data-driven models in epidemics, including in particular _prediction_, and multiscale modeling and parameterization of living cells, where spatial stochasticity is an important aspect of the modeling.  
   
 In case you are interested in doing a project work or a MSc-thesis, **please feel invited to contact me for further discussions**
+
+---
 
 ### Open project proposals:
 
@@ -48,6 +47,8 @@ There are three suggested openings for projects within the software framework [U
 
 More details can be found [here](../files/docs/URDME_CELLs.pdf).
 
+---
+
 ### Latest publications 2025
 
 _See also:_ <a href="{{site.author.googlescholar}}">my Google Scholar
@@ -56,11 +57,19 @@ Engblom](http://uu.diva-portal.org/dice/table?query=authorName:Stefan%20Engblom&
 Alternatively, [list of publications as a
 pdf](../files/publ_Engblom.pdf).
 
+* _G. Menz, S. Engblom: Modelling Population-Level Hes1 Dynamics: Insights from a Multi-Framework Approach_
+  * Available via [arXiv](http://arxiv.org/abs/2411.09721).
+  * Accepted for publication in _Bull. Math. Biol_ (2025)
+
+*   _E. Blom, S. Engblom, G. Menz: Modeling the hallmarks of avascular tumors_
+    *   Available via [arXiv](https://arxiv.org/abs/2402.01305).
+	* Accepted for publication in _ENUMATH 2023_ (2025)
+  
 ## Latest news and activities 2025
 
 * **May 5--6**: I will help co-organize a DDLS-workshop entitled [_Infectious disease epidemiology: surveillance, forecasting and modelling_](https://www.scilifelab.se/event/ddls-ebi-symposium/) together with [Tove Fall](https://www.uu.se/en/contact-and-organisation/staff?query=N9-1007), [Tom Britton](https://www.su.se/english/profiles/tbrit-1.182592), and [Laura Carroll](https://www.umu.se/en/staff/laura-carroll/).
 
-* **Mar 28**: I will organize a half-day meeting with the [eSSENCE graduate school](https://www.essenceofescience.se/w/es/en/education).
+* **Mar 28**: I organized a half-day meeting with the [eSSENCE graduate school](https://www.essenceofescience.se/w/es/en/education).
 
 * **Mar 17--18**: TDB internal conference.
 
