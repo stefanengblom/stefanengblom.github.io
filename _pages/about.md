@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am...  
-...the program chair of [Applied Scientific Computing](https://www.uu.se/en/department/information-technology/research/computational-science)...  
+...the Program chair of [Applied Scientific Computing](https://www.uu.se/en/department/information-technology/research/computational-science)...  
 ...the Director of [eSSENCE](https://essenceofescience.se/)...  
 ...coordinating the [TDB Seminar Series](https://uppsala.instructure.com/courses/89337)...  
 ...the current faculty advisor of [UPPSALA SIAM Chapter](https://www.uu.se/institution/informationsteknologi/forskning/berakningsvetenskap/siam-chapter)...  
@@ -57,6 +57,10 @@ Engblom](http://uu.diva-portal.org/dice/table?query=authorName:Stefan%20Engblom&
 Alternatively, [list of publications as a
 pdf](../files/publ_Engblom.pdf).
 
+* _E. Blom, S. Engblom: DLCM: a versatile multi-level solver for heterogeneous multicellular systems_
+  * Available via [arXiv](https://arxiv.org/abs/2504.20565).
+  * Reproduce the numerical experiments using [URDME](https://github.com/URDME/urdme).
+
 * _G. Menz, S. Engblom: Modelling Population-Level Hes1 Dynamics: Insights from a Multi-Framework Approach_
   * Available via [arXiv](http://arxiv.org/abs/2411.09721).
   * Accepted for publication in _Bull. Math. Biol_ (2025)
@@ -67,15 +71,17 @@ pdf](../files/publ_Engblom.pdf).
   
 ## Latest news and activities 2025
 
-* **May 5--6**: I will help co-organize a DDLS-workshop entitled [_Infectious disease epidemiology: surveillance, forecasting and modelling_](https://www.scilifelab.se/event/ddls-ebi-symposium/) together with [Tove Fall](https://www.uu.se/en/contact-and-organisation/staff?query=N9-1007), [Tom Britton](https://www.su.se/english/profiles/tbrit-1.182592), and [Laura Carroll](https://www.umu.se/en/staff/laura-carroll/).
+* **May 5--6**: I will co-organize a DDLS-workshop entitled [_Infectious disease epidemiology: surveillance, forecasting and modelling_](https://www.scilifelab.se/event/ddls-ebi-symposium/) together with [Tove Fall](https://www.uu.se/en/contact-and-organisation/staff?query=N9-1007), [Tom Britton](https://www.su.se/english/profiles/tbrit-1.182592), and [Laura Carroll](https://www.umu.se/en/staff/laura-carroll/).
 
+* **Apr 29**: New preprint! We have been working with this one for some time now, happy to see it finalized: _E. Blom, S. Engblom: DLCM: a versatile multi-level solver for heterogeneous multicellular systems_, available via [arXiv](https://arxiv.org/abs/2504.20565). The numerical experiments can be reproduced using [URDME](https://github.com/URDME/urdme).
+  
 * **Apr**: as of 1st of April I am the program chair of [Applied Scientific Computing](https://www.uu.se/en/department/information-technology/research/computational-science).
 
 * **Mar 28**: organized a half-day meeting with the [eSSENCE graduate school](https://www.essenceofescience.se/w/es/en/education).
 
 * **Mar 17--18**: TDB internal conference.
 
-* **Mar 14**: I will give a short talk in [_Upp-Upp_](https://www.uu.se/en/department/mathematics/events/archive/2025-03-14-conference-in-statistics-upp-upp), the internal conference for Statisticians in Uppsala.
+* **Mar 14**: I gave a short talk in [_Upp-Upp_](https://www.uu.se/en/department/mathematics/events/archive/2025-03-14-conference-in-statistics-upp-upp), the internal conference for Statisticians in Uppsala.
 
 * **Mar 13**: visit to the Swedish parliament within the [RIFO](https://rifo.se/natverksprogrammet/)-program.  _Thanks a lot!_
 ![RIFO Participants 2025](/images/RIFO2025.png "Photo: Jesper Ahlin Marceta")
