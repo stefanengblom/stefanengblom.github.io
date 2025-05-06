@@ -71,7 +71,10 @@ pdf](../files/publ_Engblom.pdf).
   
 ## Latest news and activities 2025
 
-* **May 5--6**: I will co-organize a DDLS-workshop entitled [_Infectious disease epidemiology: surveillance, forecasting and modelling_](https://www.scilifelab.se/event/ddls-ebi-symposium/) together with [Tove Fall](https://www.uu.se/en/contact-and-organisation/staff?query=N9-1007), [Tom Britton](https://www.su.se/english/profiles/tbrit-1.182592), and [Laura Carroll](https://www.umu.se/en/staff/laura-carroll/).
+* **May 5--6**: I co-organized a DDLS-workshop entitled [_Infectious disease epidemiology: surveillance, forecasting and modelling_](https://www.scilifelab.se/event/ddls-ebi-symposium/) together with [Tove Fall](https://www.uu.se/en/contact-and-organisation/staff?query=N9-1007), [Tom Britton](https://www.su.se/english/profiles/tbrit-1.182592), and [Laura Carroll](https://www.umu.se/en/staff/laura-carroll/).
+![DDLS Workshop group](/images/DDLS_WS_group.png "Photo: Nora Lehotai")
+_Below photo:_ We had a memorable panel discussion too!
+![DDLS Workshop panel](/images/DDLS_panel.png "Photo: Nora Lehotai")
 
 * **Apr 29**: New preprint! We have been working with this one for some time now, happy to see it finalized: _E. Blom, S. Engblom: DLCM: a versatile multi-level solver for heterogeneous multicellular systems_, available via [arXiv](https://arxiv.org/abs/2504.20565). The numerical experiments can be reproduced using [URDME](https://github.com/URDME/urdme).
   
