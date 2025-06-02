@@ -71,6 +71,8 @@ pdf](../files/publ_Engblom.pdf).
   
 ## Latest news and activities 2025
 
+* **May 26--28**: Visit to Basel and to [Mustafa Khammash](https://bsse.ethz.ch/ctsb/people/person-detail.khammash.html) to engage as the external advisor for the PhD defense of Elena D'Ambrosio. _Congratulations!_
+
 * **May 5--6**: I co-organized a DDLS-workshop entitled [_Infectious disease epidemiology: surveillance, forecasting and modelling_](https://www.scilifelab.se/event/ddls-ebi-symposium/) together with [Tove Fall](https://www.uu.se/en/contact-and-organisation/staff?query=N9-1007), [Tom Britton](https://www.su.se/english/profiles/tbrit-1.182592), and [Laura Carroll](https://www.umu.se/en/staff/laura-carroll/). Read more [in the DDLS post.](https://www.scilifelab.se/news/data-driven-insights-into-infectious-disease-epidemiology-highlights-from-ddls-symposium-at-campus-albano/)
 ![DDLS Workshop group](/images/DDLS_WS_group.png "Photo: Nora Lehotai")
 _Below photo:_ We had a memorable panel discussion too!
