@@ -10,9 +10,9 @@ redirect_from:
 I am...  
 ...the Program chair of [Applied Scientific Computing](https://www.uu.se/en/department/information-technology/research/computational-science)...  
 ...the Director of [eSSENCE](https://essenceofescience.se/)...  
+...a [SciLifeLab Group Leader](https://www.scilifelab.se/researchers/stefan-engblom/)...  
 ...coordinating the [TDB Seminar Series](https://uppsala.instructure.com/courses/89337)...  
-...the current faculty advisor of [UPPSALA SIAM Chapter](https://www.uu.se/institution/informationsteknologi/forskning/berakningsvetenskap/siam-chapter)...  
-...and a member of the board of [Consor](https://www.consorconsulting.se/).  
+...the current faculty advisor of [UPPSALA SIAM Chapter](https://www.uu.se/institution/informationsteknologi/forskning/berakningsvetenskap/siam-chapter).  
 
 Find me at the [Mathematics Genealogy Project](http://genealogy.math.ndsu.nodak.edu/id.php?id=130384).
 
@@ -62,14 +62,22 @@ pdf](../files/publ_Engblom.pdf).
   * Reproduce the numerical experiments using [URDME](https://github.com/URDME/urdme).
 
 * _G. Menz, S. Engblom: Modelling Population-Level Hes1 Dynamics: Insights from a Multi-Framework Approach_
+  * In _Bull. Math. Biol_ 87(6):74 (2025) [(doi)](https://doi.org/10.1007/s11538-025-01447-9).
   * Available via [arXiv](http://arxiv.org/abs/2411.09721).
-  * Accepted for publication in _Bull. Math. Biol_ (2025)
 
 *   _E. Blom, S. Engblom, G. Menz: Modeling the hallmarks of avascular tumors_
     *   Available via [arXiv](https://arxiv.org/abs/2402.01305).
 	* Accepted for publication in _ENUMATH 2023_ (2025)
   
 ## Latest news and activities 2025
+
+* **Oct 14--16**: [Swedish e-Science Academy](https://www.essenceofescience.se/w/es/en/calendar/archive/2025-10-15-swedish-e-science-academy-2025) in Umeå.
+
+* **Sep 18--19**: [SciLifeLab group leader retreat](https://lyyti.events/p/SciLifeLab_Group_leader_retreat_2025_7794).
+
+* **Sep 1--5**: participating in the [ENUMATH 2025](https://enumath2025.eu/) conference where I will organize a minisymposium (MS82: _The mathematics of pathology: quantitative methods_) together with [Fred Vermolen](https://www.uhasselt.be/en/who-is-who/fred-vermolen). I will also give a talk in the minisymposium MS20: _Local and nonlocal transport in single and multiple scale heterogeneous processes_.
+
+* **Aug 27--28**: visiting the [Pandemic Laboratory Preparedness Network Meeting 2025](https://www.scilifelab.se/event/plp-network-meeting/).
 
 * **May 26--28**: Visit to Basel and to [Mustafa Khammash](https://bsse.ethz.ch/ctsb/people/person-detail.khammash.html) to engage as the external advisor for the PhD defense of Elena D'Ambrosio. _Congratulations!_
 
