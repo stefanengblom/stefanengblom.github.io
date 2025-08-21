@@ -30,11 +30,13 @@ In case you are interested in doing a project work or a MSc-thesis, **please fee
 
 [Postdoc in Computational Epidemiology](https://uu.varbi.com/en/what:job/jobID:849295/)
 
-Postdoc position in Computational Science, specifically in Bayesian Epidemiology. The proposed project consists of two parts: i) developing Neural Network techniques to use in the construction of priors, and ii) developing diagnostic techniques suitable to simulation-based inference.
+Fully funded **Postdoc position** in Computational Science, specifically in Bayesian Epidemiology. The proposed project consists of two parts:
+- developing Neural Network techniques to use in the construction of priors,
+- developing diagnostic techniques suitable to simulation-based inference.
 
-See the [short project description](../files/docs/nnb_epidemics.pdf) and the formal application form can be found [here](https://uu.varbi.com/en/what:job/jobID:849295/).
+See the [short project description](../files/docs/nnb_epidemics.pdf) for a bit more on this. The formal application form can be found [here](https://uu.varbi.com/en/what:job/jobID:849295/).
 
-Please apply using the online application system linked above. **Application deadline 31st of October 2025**.
+Please apply using the online application system linked above. **Application deadline 31st of October 2025**. Candidates with a relevant background are more than welcome to contact me for any informal queries.
 
 **[Computational Epidemics driven by Data](../files/docs/BayesianEpidemics.pdf)**  
 In this line of research we are interested in the trade-offs between data and detailed so-called mechanistic models. The application focus is in epidemics and concerns modeling under uncertainties and supporting risk-based decisions. Part of the work will be done in [URDME](http://urdme.github.io/urdme).  
