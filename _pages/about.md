@@ -34,7 +34,7 @@ Fully funded **Postdoc position** in Computational Science, specifically in Baye
 - developing Neural Network techniques to use in the construction of priors,
 - developing diagnostic techniques suitable to simulation-based inference.
 
-See the [short project description](../files/docs/nnb_epidemics.pdf) for a bit more on this. The formal application form can be found [here](https://uu.varbi.com/en/what:job/jobID:849295/).
+See the [short project description](../files/docs/NNB_Epidemics.pdf) for a bit more on this. The formal application form can be found [here](https://uu.varbi.com/en/what:job/jobID:849295/).
 
 Please apply using the online application system linked above. **Application deadline 31st of October 2025**. Candidates with a relevant background are more than welcome to contact me for any informal queries.
 
@@ -64,11 +64,13 @@ pdf](../files/publ_Engblom.pdf).
 
 * _G. Menz, S. Engblom: Modelling Population-Level Hes1 Dynamics: Insights from a Multi-Framework Approach_
   * In _Bull. Math. Biol_ 87(6):74 (2025) [(doi)](https://doi.org/10.1007/s11538-025-01447-9).
+  * Read also the short [BMB Article Highlight](https://www.smb.org/news/13533897).
   * Available via [arXiv](http://arxiv.org/abs/2411.09721).
+  * Reproduce the numerical experiments using [URDME](https://github.com/URDME/urdme).
 
-*   _E. Blom, S. Engblom, G. Menz: Modeling the hallmarks of avascular tumors_
-    *   Available via [arXiv](https://arxiv.org/abs/2402.01305).
-	* Accepted for publication in _ENUMATH 2023_ (2025)
+*  _E. Blom, S. Engblom, G. Menz: Modeling the hallmarks of avascular tumors_
+   *   Available via [arXiv](https://arxiv.org/abs/2402.01305).
+   * Accepted for publication in _ENUMATH 2023_ (2025)
   
 ## Latest news and activities 2025
 
@@ -76,13 +78,13 @@ pdf](../files/publ_Engblom.pdf).
 
 * **Sep 18--19**: [SciLifeLab group leader retreat](https://lyyti.events/p/SciLifeLab_Group_leader_retreat_2025_7794).
 
-* **Sep 1--5**: participating in the [ENUMATH 2025](https://enumath2025.eu/) conference where I will organize a minisymposium (MS82: _The mathematics of pathology: quantitative methods_) together with [Fred Vermolen](https://www.uhasselt.be/en/who-is-who/fred-vermolen). I will also give a talk in the minisymposium MS20: _Local and nonlocal transport in single and multiple scale heterogeneous processes_.
+* **Sep 1--5**: Participated in the [ENUMATH 2025](https://enumath2025.eu/) conference where I organized a minisymposium (MS82: _The mathematics of pathology: quantitative methods_) together with [Fred Vermolen](https://www.uhasselt.be/en/who-is-who/fred-vermolen). I also gave a talk in the minisymposium MS20: _Local and nonlocal transport in single and multiple scale heterogeneous processes_.
 
-* **Aug 27--28**: visiting the [Pandemic Laboratory Preparedness Network Meeting 2025](https://www.scilifelab.se/event/plp-network-meeting/).
+* **Aug 27--28**: At the [Pandemic Laboratory Preparedness Network Meeting 2025](https://www.scilifelab.se/event/plp-network-meeting/).
 
-* **Aug 20**: open position: [Postdoc in Computational Epidemiology](https://uu.varbi.com/en/what:job/jobID:849295/). **Deadline to apply 31st of October 2025!**
+* **Aug 20**: Open position: [Postdoc in Computational Epidemiology](https://uu.varbi.com/en/what:job/jobID:849295/). **Deadline to apply 31st of October 2025!**
 
-* **Aug 19--20**: visiting [Advances in stochastic processes and numerical analysis](https://sites.google.com/view/szepessy65workshop).
+* **Aug 19--20**: Visiting [Advances in stochastic processes and numerical analysis](https://sites.google.com/view/szepessy65workshop).
 
 * **May 26--28**: Visit to Basel and to [Mustafa Khammash](https://bsse.ethz.ch/ctsb/people/person-detail.khammash.html) to engage as the external advisor for the PhD defense of Elena D'Ambrosio. _Congratulations!_
 
