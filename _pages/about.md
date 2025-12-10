@@ -28,6 +28,7 @@ In case you are interested in doing a project work or a MSc-thesis, **please fee
 
 ### Open project proposals:
 
+<!--
 [Postdoc in Computational Epidemiology](https://uu.varbi.com/en/what:job/jobID:849295/)
 
 Fully funded **Postdoc position** in Computational Science, specifically in Bayesian Epidemiology. The proposed project consists of two parts:
@@ -37,6 +38,8 @@ Fully funded **Postdoc position** in Computational Science, specifically in Baye
 See the [short project description](../files/docs/NNB_Epidemics.pdf) for a bit more on this. The formal application form can be found [here](https://uu.varbi.com/en/what:job/jobID:849295/).
 
 Please apply using the online application system linked above. **Application deadline 31st of October 2025**. Candidates with a relevant background are more than welcome to contact me for any informal queries.
+
+-->
 
 **[Computational Epidemics driven by Data](../files/docs/BayesianEpidemics.pdf)**  
 In this line of research we are interested in the trade-offs between data and detailed so-called mechanistic models. The application focus is in epidemics and concerns modeling under uncertainties and supporting risk-based decisions. Part of the work will be done in [URDME](http://urdme.github.io/urdme).  
@@ -58,6 +61,9 @@ Engblom](http://uu.diva-portal.org/dice/table?query=authorName:Stefan%20Engblom&
 Alternatively, [list of publications as a
 pdf](../files/publ_Engblom.pdf).
 
+* _A. Nordman, S. Engblom, D. van der Spoel: Bayesian three-point water models_
+  * In _npj Comput. Mater._ 11(366) (2025) [(doi)](https://doi.org/10.1038/s41524-025-01879-w)
+
 * _E. Blom, S. Engblom: DLCM: a versatile multi-level solver for heterogeneous multicellular systems_
   * Available via [arXiv](https://arxiv.org/abs/2504.20565).
   * Reproduce the numerical experiments using [URDME](https://github.com/URDME/urdme).
@@ -69,10 +75,12 @@ pdf](../files/publ_Engblom.pdf).
   * Reproduce the numerical experiments using [URDME](https://github.com/URDME/urdme).
 
 *  _E. Blom, S. Engblom, G. Menz: Modeling the hallmarks of avascular tumors_
-   *   Available via [arXiv](https://arxiv.org/abs/2402.01305).
-   * Accepted for publication in _ENUMATH 2023_ (2025)
+   * In _Numerical Mathematics and Advanced Applications: ENUMATH 2023_, Lecture Notes in Computational Science and Engineering 153, 149--158 (2025): [(doi)](http://dx.doi.org/10.1007/978-3-031-86173-4_15).
+   * Available via [arXiv](https://arxiv.org/abs/2402.01305).
   
 ## Latest news and activities 2025
+
+* **Nov 3**: Start of the [Project course in Computational Science](https://uppsala.instructure.com/courses/116268). _Welcome_!
 
 * **Oct 14--16**: [Swedish e-Science Academy](https://www.essenceofescience.se/w/es/en/calendar/archive/2025-10-15-swedish-e-science-academy-2025) in Umeå.
 
