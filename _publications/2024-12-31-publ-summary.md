@@ -10,4 +10,5 @@ collection: publications
     
     *   In _Bull. Math. Biol_, 86 (2024) [(doi)](https://doi.org/10.1007/s11538-024-01297-x).
     *   Available via [arXiv](http://arxiv.org/abs/2309.07889).
+	*   [DiVA record](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-541029).
 

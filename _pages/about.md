@@ -53,7 +53,7 @@ More details can be found [here](../files/docs/URDME_CELLs.pdf).
 
 ---
 
-### Latest publications 2025
+### Latest publications 2026
 
 _See also:_ <a href="{{site.author.googlescholar}}">my Google Scholar
 profile</a>, or DiVA records for [Author: Stefan
@@ -61,66 +61,17 @@ Engblom](http://uu.diva-portal.org/dice/table?query=authorName:Stefan%20Engblom&
 Alternatively, [list of publications as a
 pdf](../files/publ_Engblom.pdf).
 
-* _A. Nordman, S. Engblom, D. van der Spoel: Bayesian three-point water models_
-  * In _npj Comput. Mater._ 11(366) (2025) [(doi)](https://doi.org/10.1038/s41524-025-01879-w)
-
 * _E. Blom, S. Engblom: DLCM: a versatile multi-level solver for heterogeneous multicellular systems_
   * Available via [arXiv](https://arxiv.org/abs/2504.20565).
   * Reproduce the numerical experiments using [URDME](https://github.com/URDME/urdme).
 
-* _G. Menz, S. Engblom: Modelling Population-Level Hes1 Dynamics: Insights from a Multi-Framework Approach_
-  * In _Bull. Math. Biol_ 87(6):74 (2025) [(doi)](https://doi.org/10.1007/s11538-025-01447-9).
-  * Read also the short [BMB Article Highlight](https://www.smb.org/news/13533897).
-  * Available via [arXiv](http://arxiv.org/abs/2411.09721).
-  * Reproduce the numerical experiments using [URDME](https://github.com/URDME/urdme).
+## Latest news and activities 2026
 
-*  _E. Blom, S. Engblom, G. Menz: Modeling the hallmarks of avascular tumors_
-   * In _Numerical Mathematics and Advanced Applications: ENUMATH 2023_, Lecture Notes in Computational Science and Engineering 153, 149--158 (2025): [(doi)](http://dx.doi.org/10.1007/978-3-031-86173-4_15).
-   * Available via [arXiv](https://arxiv.org/abs/2402.01305).
-  
-## Latest news and activities 2025
-
-* **Nov 3**: Start of the [Project course in Computational Science](https://uppsala.instructure.com/courses/116268). _Welcome_!
-
-* **Oct 14--16**: [Swedish e-Science Academy](https://www.essenceofescience.se/w/es/en/calendar/archive/2025-10-15-swedish-e-science-academy-2025) in Umeå.
-
-* **Sep 18--19**: [SciLifeLab group leader retreat](https://lyyti.events/p/SciLifeLab_Group_leader_retreat_2025_7794).
-
-* **Sep 1--5**: Participated in the [ENUMATH 2025](https://enumath2025.eu/) conference where I organized a minisymposium (MS82: _The mathematics of pathology: quantitative methods_) together with [Fred Vermolen](https://www.uhasselt.be/en/who-is-who/fred-vermolen). I also gave a talk in the minisymposium MS20: _Local and nonlocal transport in single and multiple scale heterogeneous processes_.
-
-* **Aug 27--28**: At the [Pandemic Laboratory Preparedness Network Meeting 2025](https://www.scilifelab.se/event/plp-network-meeting/).
-
-* **Aug 20**: Open position: [Postdoc in Computational Epidemiology](https://uu.varbi.com/en/what:job/jobID:849295/). **Deadline to apply 31st of October 2025!**
-
-* **Aug 19--20**: Visiting [Advances in stochastic processes and numerical analysis](https://sites.google.com/view/szepessy65workshop).
-
-* **May 26--28**: Visit to Basel and to [Mustafa Khammash](https://bsse.ethz.ch/ctsb/people/person-detail.khammash.html) to engage as the external advisor for the PhD defense of Elena D'Ambrosio. _Congratulations!_
-
-* **May 5--6**: I co-organized a DDLS-workshop entitled [_Infectious disease epidemiology: surveillance, forecasting and modelling_](https://www.scilifelab.se/event/ddls-ebi-symposium/) together with [Tove Fall](https://www.uu.se/en/contact-and-organisation/staff?query=N9-1007), [Tom Britton](https://www.su.se/english/profiles/tbrit-1.182592), and [Laura Carroll](https://www.umu.se/en/staff/laura-carroll/). Read more [in the DDLS post.](https://www.scilifelab.se/news/data-driven-insights-into-infectious-disease-epidemiology-highlights-from-ddls-symposium-at-campus-albano/)
-![DDLS Workshop group](/images/DDLS_WS_group.png "Photo: Nora Lehotai")
-_Below photo:_ We had a memorable panel discussion too!
-![DDLS Workshop panel](/images/DDLS_panel.png "Photo: Nora Lehotai")
-
-* **Apr 29**: New preprint! We have been working with this one for some time now, happy to see it finalized: _E. Blom, S. Engblom: DLCM: a versatile multi-level solver for heterogeneous multicellular systems_, available via [arXiv](https://arxiv.org/abs/2504.20565). The numerical experiments can be reproduced using [URDME](https://github.com/URDME/urdme).
-  
-* **Apr**: as of 1st of April I am the program chair of [Applied Scientific Computing](https://www.uu.se/en/department/information-technology/research/computational-science).
-
-* **Mar 28**: organized a half-day meeting with the [eSSENCE graduate school](https://www.essenceofescience.se/w/es/en/education).
-
-* **Mar 17--18**: TDB internal conference.
-
-* **Mar 14**: I gave a short talk in [_Upp-Upp_](https://www.uu.se/en/department/mathematics/events/archive/2025-03-14-conference-in-statistics-upp-upp), the internal conference for Statisticians in Uppsala.
-
-* **Mar 13**: visit to the Swedish parliament within the [RIFO](https://rifo.se/natverksprogrammet/)-program.  _Thanks a lot!_
-![RIFO Participants 2025](/images/RIFO2025.png "Photo: Jesper Ahlin Marceta")
-
-* **Jan 17**: [Gesina Menz](https://www.uu.se/kontakt-och-organisation/personal?query=N21-2101) presented her half-time seminar. External reviewer: [Torbjörn Lundh](https://www.gu.se/om-universitetet/hitta-person/torbjornlundh).
-
-* **Jan 14--16**: participation in the [BIT'65 conference](https://www.uu.se/en/department/information-technology/research/computational-science/bit-conference).
-
-* **Jan 10**: poster presentation session in the [Project course in Computational Science](https://uppsala.instructure.com/courses/101421/pages/project-groups-2). _Welcome!_
-
-* **Jan 8--9**: final presentations in the [Project course in Computational Science](https://uppsala.instructure.com/courses/101421/pages/schedule-overview). 
+* **Oct 14--15** [Swedish e-Science Academy 2026](https://www.essenceofescience.se/w/es/en/calendar/archive/2026-10-14-swedish-e-science-academy-2026).
+* **March 16--19** [2nd Bonn Conference on Mathematical Life Sciences](https://www.bcml.uni-bonn.de/events/2nd-bonn-conference-on-mathematical-life-sciences/).
+* **Feb 26** **New release!** URDME Version 1.5 is now available [www.urdme.org](http://www.urdme.org). See also the manual, [available via arXiv](https://arxiv.org/abs/0902.2912).
+* **Jan 13--15**: final presentations in the [Project course in Computational Science](https://uppsala.instructure.com/courses/116268/pages/schedule-overview?module_item_id=1476394). 
+* **Jan 12**: poster presentation session in the [Project course in Computational Science](https://uppsala.instructure.com/courses/116268/pages/schedule-overview?module_item_id=1476394). _Welcome!_
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
