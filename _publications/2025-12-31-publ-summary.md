@@ -20,3 +20,4 @@ collection: publications
 *  _E. Blom, S. Engblom, G. Menz: Modeling the hallmarks of avascular tumors_
    * In _Numerical Mathematics and Advanced Applications: ENUMATH 2023_, Lecture Notes in Computational Science and Engineering 153, 149--158 (2025): [(doi)](http://dx.doi.org/10.1007/978-3-031-86173-4_15).
    * Available via [arXiv](https://arxiv.org/abs/2402.01305).
+   * [DiVA record](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-546864)
