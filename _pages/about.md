@@ -61,6 +61,9 @@ Engblom](http://uu.diva-portal.org/dice/table?query=authorName:Stefan%20Engblom&
 Alternatively, [list of publications as a
 pdf](../files/publ_Engblom.pdf).
 
+* _E. Blom, Q. Peng, L. Pomfret, R. Mort, S. Engblom: Towards Data-Driven Modeling of Cell Cycle and Wound Closure Processes_
+  * Available via [arXiv](https://arxiv.org/abs/2603.00834)
+
 * _E. Blom, S. Engblom: DLCM: a versatile multi-level solver for heterogeneous multicellular systems_
   * Available via [arXiv](https://arxiv.org/abs/2504.20565).
   * Reproduce the numerical experiments using [URDME](https://github.com/URDME/urdme).
