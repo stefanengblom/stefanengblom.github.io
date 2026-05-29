@@ -61,6 +61,10 @@ Engblom](http://uu.diva-portal.org/dice/table?query=authorName:Stefan%20Engblom&
 Alternatively, [list of publications as a
 pdf](../files/publ_Engblom.pdf).
 
+* _A. T. Nordman, S. Engblom, D. van der Spoel: Bayesian
+modeling of polarizable water: Lessons for force field development_
+  * In  J. Chem. Theory Comput., (In press), 2026. [(doi)](https://doi.org/10.1021/acs.jctc.6c00260)
+
 * _E. Blom, Q. Peng, L. Pomfret, R. Mort, S. Engblom: Towards Data-Driven Modeling of Cell Cycle and Wound Closure Processes_
   * Available via [arXiv](https://arxiv.org/abs/2603.00834)
 
