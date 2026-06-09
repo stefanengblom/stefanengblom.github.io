@@ -33,8 +33,9 @@ I was the main advisor of
 *   [Jing Liu](https://katalog.uu.se/empinfo/?id=N12-1883) who successfully defended her thesis [Towards Fast and Robust Algorithms in Flash X-ray single-particle Imaging](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:1393531) (2020). This project was run joint with [Janos Hajdu's group](http://xray.bmc.uu.se/hajdu/) at the Department of Cell and Molecular Biology.
 *   [Pavol Bauer](http://www.it.uu.se/katalog/pavpa354) who successfully defended his thesis [Parallelism in Event-Based Computations with Applications in Biology](http://uu.diva-portal.org/smash/record.jsf?pid=diva2:1151116) (2017).
 
-I am also the secondary advisor for [Anna Frigge](https://www.it.uu.se/katalog/annfr888), [Alfred Nordman](https://katalog.uu.se/empinfo/?id=N19-1437), and [Helena Andersson](https://www.it.uu.se/katalog/helan424?lang=sv). I was previously the secondary advisor of
+I am also the secondary advisor for [Anna Frigge](https://www.it.uu.se/katalog/annfr888) and [Helena Andersson](https://www.it.uu.se/katalog/helan424?lang=sv). I was previously the secondary advisor of
 
+*  [Alfred Nordman](https://www.uu.se/kontakt-och-organisation/personal?query=N19-1437). PhD thesis [Parameters, Potentials and Probabilistic Methods in Molecular Modeling](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-584150) (2026).
 *   [Adrien Coulier](http://www.it.uu.se/katalog/adrco749). PhD thesis [Multiscale Modeling in Systems Biology: Methods and Perspectives](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1554586&dswid=7457) (2021).
 *   [Afshin Zafari](http://www.it.uu.se/katalog/afsza949). PhD thesis [Advances in Task-Based Parallel Programming for Distributed Memory Architectures](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1173783) (2018).
 *   [Stefan Widgren](http://www.slu.se/sv/om-slu/kontakta-slu/sok/sok-anstalld/personpresentation/?emp=8961AF682A8CAA5230626B3E8C357AA4). PhD thesis [Studies on verotoxigenic Escherichia coli O157 in Swedish cattle. From sampling to disease spread modelling](http://pub.epsilon.slu.se/13821/) (2016).
