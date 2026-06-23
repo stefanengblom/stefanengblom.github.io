@@ -61,6 +61,11 @@ Engblom](http://uu.diva-portal.org/dice/table?query=authorName:Stefan%20Engblom&
 Alternatively, [list of publications as a
 pdf](../files/publ_Engblom.pdf).
 
+* _S. Widgren, I. Ewerlöf, A. Comin, R. Johansson, S. Engblom: 
+ Bayesian modelling of herd-level infection dynamics in cattle: Local
+ spread as the primary driver of Salmonella Dublin persistence on Öland_
+  * Available via [arXiv](https://arxiv.org/abs/2606.23148).
+
 * _A. T. Nordman, S. Engblom, D. van der Spoel: Bayesian
 modeling of polarizable water: Lessons for force field development_
   * In  J. Chem. Theory Comput., 22(11):5435--5447 (2026). [(doi)](https://doi.org/10.1021/acs.jctc.6c00260)
@@ -75,10 +80,17 @@ modeling of polarizable water: Lessons for force field development_
 ## Latest news and activities 2026
 
 * **Oct 14--15** [Swedish e-Science Academy 2026](https://www.essenceofescience.se/w/es/en/calendar/archive/2026-10-14-swedish-e-science-academy-2026).
+
+* **Jun 23** **New preprint!** Happy to finally see this one come out. _S. Widgren, I. Ewerlöf, A. Comin, R. Johansson, S. Engblom: Bayesian modelling of herd-level infection dynamics in cattle: Local spread as the primary driver of Salmonella Dublin persistence on Öland_ The preprint is available via [arXiv](https://arxiv.org/abs/2606.23148).
+
 * **Jun 3** [Alfred Nordman](https://www.uu.se/kontakt-och-organisation/personal?query=N19-1437) defended his PhD thesis [Parameters, Potentials and Probabilistic Methods in Molecular Modeling](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-584150). _Congratulations!_
+
 * **Mar 16--19** [2nd Bonn Conference on Mathematical Life Sciences](https://www.bcml.uni-bonn.de/events/2nd-bonn-conference-on-mathematical-life-sciences/).
+
 * **Feb 26** **New release!** URDME Version 1.5 is now available [www.urdme.org](http://www.urdme.org). See also the manual, [available via arXiv](https://arxiv.org/abs/0902.2912).
+
 * **Jan 13--15**: final presentations in the [Project course in Computational Science](https://uppsala.instructure.com/courses/116268/pages/schedule-overview?module_item_id=1476394). 
+
 * **Jan 12**: poster presentation session in the [Project course in Computational Science](https://uppsala.instructure.com/courses/116268/pages/schedule-overview?module_item_id=1476394). _Welcome!_
 
 <!-- 
