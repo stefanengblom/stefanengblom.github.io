@@ -81,7 +81,7 @@ modeling of polarizable water: Lessons for force field development_
 
 * **Oct 14--15** [Swedish e-Science Academy 2026](https://www.essenceofescience.se/w/es/en/calendar/archive/2026-10-14-swedish-e-science-academy-2026).
 
-* **Jun 23** **New preprint!** Happy to finally see this one come out. _S. Widgren, I. Ewerlöf, A. Comin, R. Johansson, S. Engblom: Bayesian modelling of herd-level infection dynamics in cattle: Local spread as the primary driver of Salmonella Dublin persistence on Öland_ The preprint is available via [arXiv](https://arxiv.org/abs/2606.23148).
+* **Jun 23** **New preprint!** Happy to finally see this one come out. _S. Widgren, I. Ewerlöf, A. Comin, R. Johansson, S. Engblom: Bayesian modelling of herd-level infection dynamics in cattle: Local spread as the primary driver of Salmonella Dublin persistence on Öland_. The preprint is available via [arXiv](https://arxiv.org/abs/2606.23148).
 
 * **Jun 3** [Alfred Nordman](https://www.uu.se/kontakt-och-organisation/personal?query=N19-1437) defended his PhD thesis [Parameters, Potentials and Probabilistic Methods in Molecular Modeling](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-584150). _Congratulations!_
 
