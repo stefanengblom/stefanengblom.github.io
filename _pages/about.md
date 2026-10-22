@@ -18,7 +18,7 @@ Find me at the [Mathematics Genealogy Project](http://genealogy.math.ndsu.nodak.
 
 ## Research
 
-I am particularly interested in Scientific Computing in the intersection with Data-driven research and Data Science. I have extensive experiences in many aspects of Scientific Computing in general, in Numerical Modeling and -Analys in particular, as well as to some extent in High-Performance Computing. My main focus of applications are in the Biosciences at broad, but I've also taken an interest in traditional computational Engineering applications.  
+I am particularly interested in Scientific Computing in the intersection with Data-driven research and Data Science. I have extensive experiences in many aspects of Scientific Computing in general, in Numerical Modeling and -Analys in particular, as well as in High-Performance Computing. My main focus of applications are in the Biosciences at broad, but I've also taken an interest in traditional computational Engineering applications.  
   
 **Current active research projects** include Bayesian approaches for compute intensive data-driven models in epidemics, including in particular _prediction_, and multiscale modeling and parameterization of living cells, where spatial stochasticity is an important aspect of the modeling.  
   
@@ -60,6 +60,12 @@ profile</a>, or DiVA records for [Author: Stefan
 Engblom](http://uu.diva-portal.org/dice/table?query=authorName:Stefan%20Engblom&start=0&rows=100&sort=year%20desc).
 Alternatively, [list of publications as a
 pdf](../files/publ_Engblom.pdf).
+
+* _D. V. Shridar and S. Engblom: The impact of strain heterogeneity on genomic profiling accuracy in mixed-strain Escherichia coli metagenomes_
+  * bioRxiv preprint [doi](https://doi.org/10.64898/2026.10.19.760091).
+
+* _B. Berglund, D. V. Shridar, M. Wrande, J. Jerlström-Hultqvist, S. Engblom, L. Sandegren, and S. Koskiniemi: Wastewater is not a reliable proxy for clinical carbapenem resistance prevalence in E. coli_
+  * medRxiv preprint [doi](https://doi.org/10.64898/2026.10.02.26364587).
 
 * _S. Widgren, I. Ewerlöf, A. Comin, R. Johansson, S. Engblom: 
  Bayesian modelling of herd-level infection dynamics in cattle: Local

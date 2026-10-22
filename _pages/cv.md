@@ -13,7 +13,7 @@ _See also:_ [CV (pdf)](../files/shortCV_Engblom.pdf).
 
 ### Research
 
-I am particularly interested in Scientific Computing in the intersection with Data-driven research and Data Science. I have extensive experiences in many aspects of Scientific Computing in general, in Numerical Modeling and -Analys in particular, as well as to some extent in High-Performance Computing. My main focus of applications are in the Biosciences at broad, but I've also taken an interest in traditional computational Engineering applications.  
+I am particularly interested in Scientific Computing in the intersection with Data-driven research and Data Science. I have extensive experiences in many aspects of Scientific Computing in general, in Numerical Modeling and -Analys in particular, as well as in High-Performance Computing. My main focus of applications are in the Biosciences at broad, but I've also taken an interest in traditional computational Engineering applications.  
   
 **Current active research projects** include Bayesian approaches for
 compute intensive data-driven models in epidemics, including in
