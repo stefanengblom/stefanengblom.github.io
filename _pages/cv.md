@@ -51,6 +51,16 @@ On the national side I was previously an elected member of the [Young Academy of
 
 MSc/BSc-theses:
 
+* [Bayesiansk Modellering av Salmonella Dublin hos mjölkkreatur på Öland](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-592028) by Elsa Enarsson, Astrid Eriksson and Maria Tedgren (2026, BSc Engineering Physics)
+
+* [Robusthet och tillförlitlighet hos mekanistiska modeller för epidemier](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-591016) by Rasmus Gunhaga, Leo Hassler, Viktor Johansson and Isak Jonsson (2026, BSc Engineering Physics)
+
+* [Data-Driven Modeling for Seasonal Influenza with Uncertainty](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-595656) by Linjia Zhong (2026, MSc Computational Science)
+
+* [Simulation of Homeostasis with Real-Time Feedback](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-597393) by Veronika Sjögren (2026, BSc Computer Science)
+
+* [Identifying Graph Characteristics in Growing Vascular Networks](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-524588) by Christopher Finn Plummer (2024, MSc Computational Science)
+
 *   [Approximate Bayesian Computation for Data-Driven Epidemiological Models](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-507806) by Christoph Nötzli (2023, MSc Data Science)
 *   [Investigating the Estimation of the infection rate and the fraction of infections leading to death in epidemiological simulation](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-506486) by Jakob Gölén (2023, MSc Engineering Physics)
 *   [Cell-sorting in grid-based time-continuous cell population models](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-488005) by Joel Olofsson (2022, MSc Engineering Physics)

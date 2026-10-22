@@ -85,19 +85,23 @@ modeling of polarizable water: Lessons for force field development_
 
 ## Latest news and activities 2026
 
-* **Dec 3--4** [3rd Nordic Biomath Meeting](https://nordic-biomathematics.github.io/) in Uppsala.
+* **Dec 3--4**: [3rd Nordic Biomath Meeting](https://nordic-biomathematics.github.io/) in Uppsala.
 
-* **Oct 28--29** [SWEDCOMP](https://www.kau.se/en/mathematics/conferences-and-seminars/swedcomp-2026) in Karlstad.
+* **Nov 20**: [Erik Blom](https://www.uu.se/en/contact-and-organisation/staff?query=N21-1862) will defend his PhD thesis! Faculty opponent [Anja Voss-Böhme](https://www.htw-dresden.de/en/hochschule/fakultaeten/info-math/ueber-uns/personen/professuren/prof-dr-anja-voss-boehme), members of the grading comittee [Torbjörn Lundh](https://www.chalmers.se/personer/torbjrn/), [Annika Lang](https://www.chalmers.se/en/persons/langa/), and [Eric Libby](https://www.umu.se/personal/eric-libby/).
 
-* **Oct 14--15** [Swedish e-Science Academy 2026](https://www.essenceofescience.se/w/es/en/calendar/archive/2026-10-14-swedish-e-science-academy-2026).
+* **Nov 2**: Start of the [Project course in Computational Science](https://uppsala.instructure.com/courses/128782). _Welcome!_
 
-* **Jun 23** **New preprint!** Happy to finally see this one come out. _S. Widgren, I. Ewerlöf, A. Comin, R. Johansson, S. Engblom: Bayesian modelling of herd-level infection dynamics in cattle: Local spread as the primary driver of Salmonella Dublin persistence on Öland_. The preprint is available via [arXiv](https://arxiv.org/abs/2606.23148).
+* **Oct 28--29**: [SWEDCOMP](https://www.kau.se/en/mathematics/conferences-and-seminars/swedcomp-2026) in Karlstad.
 
-* **Jun 3** [Alfred Nordman](https://www.uu.se/kontakt-och-organisation/personal?query=N19-1437) defended his PhD thesis [Parameters, Potentials and Probabilistic Methods in Molecular Modeling](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-584150). _Congratulations!_
+* **Oct 14--15**: Organizing the [Swedish e-Science Academy 2026](https://www.essenceofescience.se/w/es/en/calendar/archive/2026-10-14-swedish-e-science-academy-2026). [Photo from the opening welcome](/images/stefan_microphone.jpg "Photo: Mikael Wallerstedt/eSSENCE").
 
-* **Mar 16--19** [2nd Bonn Conference on Mathematical Life Sciences](https://www.bcml.uni-bonn.de/events/2nd-bonn-conference-on-mathematical-life-sciences/).
+* **Jun 23**: **New preprint!** Happy to finally see this one come out. _S. Widgren, I. Ewerlöf, A. Comin, R. Johansson, S. Engblom: Bayesian modelling of herd-level infection dynamics in cattle: Local spread as the primary driver of Salmonella Dublin persistence on Öland_. The preprint is available via [arXiv](https://arxiv.org/abs/2606.23148).
 
-* **Feb 26** **New release!** URDME Version 1.5 is now available [www.urdme.org](http://www.urdme.org). See also the manual, [available via arXiv](https://arxiv.org/abs/0902.2912).
+* **Jun 3**: [Alfred Nordman](https://www.uu.se/kontakt-och-organisation/personal?query=N19-1437) defended his PhD thesis [Parameters, Potentials and Probabilistic Methods in Molecular Modeling](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-584150). _Congratulations!_
+
+* **Mar 16--19**: [2nd Bonn Conference on Mathematical Life Sciences](https://www.bcml.uni-bonn.de/events/2nd-bonn-conference-on-mathematical-life-sciences/).
+
+* **Feb 26**: **New release!** URDME Version 1.5 is now available [www.urdme.org](http://www.urdme.org). See also the manual, [available via arXiv](https://arxiv.org/abs/0902.2912).
 
 * **Jan 13--15**: final presentations in the [Project course in Computational Science](https://uppsala.instructure.com/courses/116268/pages/schedule-overview?module_item_id=1476394). 
 
