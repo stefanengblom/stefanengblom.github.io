@@ -85,6 +85,10 @@ modeling of polarizable water: Lessons for force field development_
 
 ## Latest news and activities 2026
 
+* **Dec 3--4** [3rd Nordic Biomath Meeting](https://nordic-biomathematics.github.io/) in Uppsala.
+
+* **Oct 28--29** [SWEDCOMP](https://www.kau.se/en/mathematics/conferences-and-seminars/swedcomp-2026) in Karlstad.
+
 * **Oct 14--15** [Swedish e-Science Academy 2026](https://www.essenceofescience.se/w/es/en/calendar/archive/2026-10-14-swedish-e-science-academy-2026).
 
 * **Jun 23** **New preprint!** Happy to finally see this one come out. _S. Widgren, I. Ewerlöf, A. Comin, R. Johansson, S. Engblom: Bayesian modelling of herd-level infection dynamics in cattle: Local spread as the primary driver of Salmonella Dublin persistence on Öland_. The preprint is available via [arXiv](https://arxiv.org/abs/2606.23148).
