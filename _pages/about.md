@@ -28,18 +28,19 @@ In case you are interested in doing a project work or a MSc-thesis, **please fee
 
 ### Open project proposals:
 
-<!--
-[Postdoc in Computational Epidemiology](https://uu.varbi.com/en/what:job/jobID:849295/)
+**[PhD position in Computational Science with focus on Simulation-based inference and Epidemiological Modeling](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=989360)**
 
-Fully funded **Postdoc position** in Computational Science, specifically in Bayesian Epidemiology. The proposed project consists of two parts:
-- developing Neural Network techniques to use in the construction of priors,
-- developing diagnostic techniques suitable to simulation-based inference.
+The project focuses on the development of computational and data-driven methods for epidemiological modelling and analysis. A central component is the development of stochastic models and Bayesian methods for combining epidemiological models with different types of data, with the aim of enabling reliable estimates and situational awareness. The project offers several possible research directions, including statistical validation and diagnostics for simulation-based inference, the use of neural networks to construct informative prior distributions, and game-theoretic modelling of epidemics and the value of information in decisions concerning public health interventions. The common foundation is computational modelling and Bayesian inference, while the specific research direction can be adapted to the doctoral candidate's background and interests. The project thus offers opportunities to work at the intersection of applied mathematics, statistics, machine learning and computational science, with epidemiological applications providing a common focus.
 
-See the [short project description](../files/docs/NNB_Epidemics.pdf) for a bit more on this. The formal application form can be found [here](https://uu.varbi.com/en/what:job/jobID:849295/).
+More details about the project can be found [here](../files/docs/Comput_Modeling_Epidemics.pdf).
 
-Please apply using the online application system linked above. **Application deadline 31st of October 2025**. Candidates with a relevant background are more than welcome to contact me for any informal queries.
+Please apply using the online application system linked above. **Application deadline 11th of December 2026**.
 
--->
+**[Postdoc position in computational modeling and simulation of spreading processes in population-scale multilayer social networks](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=981675)**
+
+Fully funded **Postdoc position** in a novel collaboration between the Data Science and Intelligent Decision Making and the Applied scientific computing and High-performance computing eSSENCE research programmes. The postdoc will join the [Information Laboratory (InfoLab)](https://uuinfolab.github.io/), an interdisciplinary research group where we do basic and applied research on the extraction of knowledge from social data.
+
+Please apply using the online application system linked above. **Application deadline 16th of November 2026**.
 
 **[Computational Epidemics driven by Data](../files/docs/BayesianEpidemics.pdf)**  
 In this line of research we are interested in the trade-offs between data and detailed so-called mechanistic models. The application focus is in epidemics and concerns modeling under uncertainties and supporting risk-based decisions. Part of the work will be done in [URDME](http://urdme.github.io/urdme).  
